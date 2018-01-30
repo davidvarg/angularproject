@@ -1,2 +1,0 @@
-# angularproject
-Angular Learning Project
